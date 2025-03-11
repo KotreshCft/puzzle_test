@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b7d014db979f0e4429f2efa242b07998
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ABC Whyte
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a51f88310905186469793737d88acaa2, type: 3}
+  - {fileID: 12800000, guid: 32d16098915d3ca4ba5c71cdeda38a06, type: 3}
+  - {fileID: 12800000, guid: a662c39c9414384418528e7b67d8f90f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

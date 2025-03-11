@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 77be3adfe770176418abab00fecbc89f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ABC Whyte Inktrap
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3057e7cea8d43f345b99d8a98ce58abb, type: 3}
+  - {fileID: 12800000, guid: 0108c3c3b35829b478e00dc489e6af7b, type: 3}
+  - {fileID: 12800000, guid: f1ac7e5e912e7e74d88ddeca33c7b8ba, type: 3}
+  - {fileID: 12800000, guid: 32677a3f31602e64d8f2696a93ee6ae1, type: 3}
+  - {fileID: 12800000, guid: c01194a486cd861469e5045550b5e1b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
